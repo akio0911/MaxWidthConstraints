@@ -1,0 +1,2 @@
+# MaxWidthConstraints
+readableContentGuideを使わずに通常の制約だけでビューの最大幅を設定するサンプル
